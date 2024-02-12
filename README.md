@@ -13,4 +13,4 @@ CoinMarketCap Scraper is a Python script designed to scrape cryptocurrency data 
 
 
 ## data
-Data is in [totaldata.json](https://github.com/Sanskar-khandelwal/scraped_coinmarketcap/blob/main/totaldata.json)
+Data is in [totaldata.json](https://github.com/Sanskar-khandelwal/scraped_coinmarketcap/blob/main/totaldata.json)![coinmarketcap](https://github.com/Sanskar-khandelwal/scraped_coinmarketcap/assets/93245109/7320e900-8163-4ddd-863e-69c074c31013)
